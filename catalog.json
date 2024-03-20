@@ -19,7 +19,8 @@
             "title": "Freqtrade",
             "maintainers": [
                 {
-                    "name": "vzhukovs"
+                    "name": "vzhukovs",
+                    "email": "null@example.com"
                 }
             ],
             "tags": [
